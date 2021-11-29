@@ -1181,12 +1181,12 @@ a {
 }
 
 .first {
-  background-image: url("../../assets/images/first.jpg");
+  background-image: url("./assets/images/first.jpg");
   width: 100%;
 }
 
 .sec {
-  background-image: url("../../assets/images/sec.jpg");
+  background-image: url("./assets/images/sec.jpg");
   width: 100%;
 }
 
